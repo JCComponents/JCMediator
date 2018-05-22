@@ -1,0 +1,16 @@
+PODS:
+  - JCMediator (0.1.0)
+
+DEPENDENCIES:
+  - JCMediator (from `../`)
+
+EXTERNAL SOURCES:
+  JCMediator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JCMediator: a81c9914c0ad63508ff006c729d001476a4b9af6
+
+PODFILE CHECKSUM: de1e997f18c58563a11ae58508e419ee73a29ec9
+
+COCOAPODS: 1.3.1
