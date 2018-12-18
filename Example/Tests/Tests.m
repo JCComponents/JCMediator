@@ -2,14 +2,14 @@
 //  JCMediatorTests.m
 //  JCMediatorTests
 //
-//  Created by lswhcmcc on 05/22/2018.
-//  Copyright (c) 2018 lswhcmcc. All rights reserved.
+//  Created by JC on 05/22/2018.
+//  Copyright (c) 2018 lswh. All rights reserved.
 //
 
 @import XCTest;
 
 @interface Tests : XCTestCase
-
+lswhcmcc
 @end
 
 @implementation Tests
