@@ -22,7 +22,7 @@ pod 'JCMediator'
 
 ## Author
 
-lswhcmcc, 411863122@qq.com
+lswh, 411863122@qq.com
 
 ## License
 
