@@ -2,8 +2,8 @@
 //  JCMediator.h
 //  JCMediator_Example
 //
-//  Created by 赵俊杰 on 2018/5/22.
-//  Copyright © 2018年 lswhcmcc. All rights reserved.
+//  Created by JC on 2018/5/22.
+//  Copyright © 2018年 lswh. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -17,7 +17,7 @@
  
  @param targetName target名
  @param actionName action名
- @param params     参数
+ @param params  杰   参数
  
  @return id
  */
