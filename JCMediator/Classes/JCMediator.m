@@ -2,7 +2,7 @@
 //  JCMediator.m
 //  JCMediator_Example
 //
-//  Created by 赵俊杰 on 2018/5/22.
+//  Created by JC on 2018/5/22.
 //  Copyright © 2018年 lswhcmcc. All rights reserved.
 //
 
